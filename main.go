@@ -8,6 +8,6 @@ func main() {
 =======
 function main() {
   fmt.Println("callmainfunction")
-  fmt.Println("Hello World")
+  fmt.Println("hello world")
 >>>>>>> feature/print-hello-world
 }
