@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
-function main() {
-  fmt.Println("callmainfunction")
+func main() {
+  fmt.Println("call main function")
+  fmt.Println("hello world")
 }
