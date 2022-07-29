@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-function main() {
+func main() {
   fmt.Println("call main function")
 }
